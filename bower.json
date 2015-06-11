@@ -1,0 +1,24 @@
+{
+  "name": "browserify-metascript-demo",
+  "version": "1.0.0",
+  "authors": [
+    "randiggity <randy.wilander@workatplay.com>"
+  ],
+  "description": "Tech demo",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.2.1",
+    "underscore": "~1.8.3",
+    "backbone.localstorage": "~1.1.16",
+    "todomvc-common": "~1.0.2",
+    "jquery": "~2.1.4",
+    "todomvc-app-css": "~2.0.1"
+  }
+}
